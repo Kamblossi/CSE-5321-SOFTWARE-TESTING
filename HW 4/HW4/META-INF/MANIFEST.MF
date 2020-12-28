@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: pl.pragmatists.JUnitParams
+Export-Package: junitparams;version="1.0.4";uses:="org.junit,org.asser
+ tj"
+Bundle-Version: 1.0.4
+Archiver-Version: Plexus Archiver
+Built-By: pawel
+Bundle-ManifestVersion: 2
+Import-Package: org.junit;bundle-version="4.11.0",org.assertj;bundle-v
+ ersion="1.6.1"
+Created-By: Apache Maven 3.1.1
+Build-Jdk: 1.8.0_25
+
